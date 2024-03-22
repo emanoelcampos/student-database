@@ -1,4 +1,4 @@
-# Learn SQL by Building a Student Database
+# Building a Student Database
 
 This project was developed as part of the "Learn `SQL` by Building a Student Database: Part 1 and Part 2" courses, which are part of the [Relational Database certification from FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database/).
 
